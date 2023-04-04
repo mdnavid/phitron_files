@@ -7,7 +7,7 @@ int main()
 
     scanf("%d",&a) ;
 
-    printf("will it run now %d \n",a) ;
+    printf("will that run now %d \n",a) ;
 
     return 0;
 }
