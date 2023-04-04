@@ -1,1 +1,2 @@
-19
+10 is even
+9 is odd
